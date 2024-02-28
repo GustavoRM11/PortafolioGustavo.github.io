@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Cubo-3D",
+    "desc": "Cubo 3D con logos de lenguajes de programacion hecho con javascript, Html, Css",
+    "image": "cubo3d",
+    "category": "basicweb",
+    "links": {
+      "code": "https://github.com/GustavoRM11/cubo3D"
+    }
+  },
+  {
+    "name": "Html Avanzado",
+    "desc": "Explorando el fascinante mundo del desarrollo web, me sumerjo en la práctica de ejercicios de HTML, avanzando desde lo básico hasta desafíos más complejos.",
+    "image": "htmlavanzado",
+    "category": "basicweb",
+    "links": {
+      "code": "https://github.com/GustavoRM11/HTML-Avanzado"
+    }
+  },
+  {
+    "name": "CSS Avanzado",
+    "desc": "Navegando por las complejidades del diseño web, perfeccionando habilidades con ejercicios de CSS desde lo más elemental hasta desafíos avanzados.",
+    "image": "cssavanzado",
+    "category": "basicweb",
+    "links": {
+      "code": "https://github.com/GustavoRM11/CSS-Avanzado"
+    }
+  },
+  {
+    "name": "Bombillo",
+    "desc": "Bombillo basico con interruptor",
+    "image": "bombillo",
+    "category": "basicweb",
+    "links": {
+      "code": "https://github.com/GustavoRM11/bombillo"
+    }
+  },
+  {
+    "name": "Calculadora basica",
+    "desc": "Basica calculadora sencilla",
+    "image": "calculadora",
+    "category": "basicweb",
+    "links": {
+      "code": "https://github.com/GustavoRM11/calculadora"
+    }
+  },
+  {
+    "name": "Expandir cartas",
+    "desc": "Expandiendo cartas de sitios turisticos de colombia",
+    "image": "expandiendocartas",
+    "category": "basicweb",
+    "links": {
+      "code": "https://github.com/GustavoRM11/Reto-cartas"
+    }
+  },
+  {
+    "name": "Juego enfermeria",
+    "desc": "Juego de allar la pareja con accesorios de enfermeria",
+    "image": "juego",
+    "category": "basicweb",
+    "links": {
+      "code": "https://github.com/GustavoRM11/Juego"
+    }
+  },
+  {
+    "name": "Listar tareas",
+    "desc": "Listador de tarear basico",
+    "image": "listatareas",
+    "category": "basicweb",
+    "links": {
+      "code": "https://github.com/GustavoRM11/listadetareas"
+    }
+  },
+  {
+    "name": "Logo de universidad",
+    "desc": "lOGO de inicio de sesion de universidad",
+    "image": "loginuni",
+    "category": "basicweb",
+    "links": {
+      "code": "https://github.com/GustavoRM11/login"
+    }
+  },
+  {
+    "name": "Efecto menu",
+    "desc": "Menu basico con efecto brilloso",
+    "image": "menuefec",
+    "category": "basicweb",
+    "links": {
+      "code": "https://github.com/GustavoRM11/menubrilloso"
+    }
+  },
+  {
+    "name": "Menu Hamburguesa",
+    "desc": "Menu de hamburguesa basico",
+    "image": "menuhambur",
+    "category": "basicweb",
+    "links": {
+      "code": "https://github.com/GustavoRM11/Menu-Hamburguesa"
+    }
+  },
+  {
+    "name": "Reproductor de musica",
+    "desc": "Reproductor de musica basico",
+    "image": "musicplayer",
+    "category": "basicweb",
+    "links": {
+      "code": "https://github.com/GustavoRM11/Music-Player"
+    }
+  },
+  {
+    "name": "RETO",
+    "desc": "Reto master",
+    "image": "retomas",
+    "category": "basicweb",
+    "links": {
+      "code": "https://github.com/GustavoRM11/reto"
+    }
+  },
+  {
+    "name": "Tarjeta perfil",
+    "desc": "Tarjeta de presentacion de Usuario",
+    "image": "terjetausu",
+    "category": "basicweb",
+    "links": {
+      "code": "https://github.com/GustavoRM11/tarjeta-perfil"
+    }
+  }
+]
